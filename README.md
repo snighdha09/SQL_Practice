@@ -16,4 +16,11 @@ Day 2 Topics:
 ✅ HAVING
 ✅ Basic interview-level aggregation queries
 
+Day 3 Topics:
+✅ INNER JOIN
+✅ LEFT JOIN
+✅ RIGHT JOIN
+✅ JOIN with filtering
+✅ Interview-style join questions
+
 
